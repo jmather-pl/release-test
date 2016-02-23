@@ -11,7 +11,16 @@
         <scm>
 		<url>https://github.com/jmather-pl/release-test/</url>
 		<developerConnection>scm:git:git@github.com:jmather-pl/release-test.git/</developerConnection>
-  </scm>
+  	</scm>
+	
+	<developers>
+		<developer>
+			<email>systems@plastiq.com</email>
+			<name>plastiq-systems</name>
+			<url>https://github.com/plastiq-systems</url>
+			<id>plastiq-systems</id>
+		</developer>
+	</developers>
 	
         <properties>
           <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
