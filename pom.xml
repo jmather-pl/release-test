@@ -11,7 +11,7 @@
         <scm>
 		<url>https://github.com/jmather-pl/release-test/</url>
 		<developerConnection>scm:git:git@github.com:jmather-pl/release-test.git</developerConnection>
-  	  <tag>Julie-1.0.2</tag>
+  	  <tag>HEAD</tag>
   </scm>
 	
         <properties>
