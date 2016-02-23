@@ -5,13 +5,13 @@
         <groupId>com.julie</groupId>
         <artifactId>julie-parent</artifactId>
         <packaging>pom</packaging>
-        <version>1.0.11-SNAPSHOT</version>
+        <version>1.0.12-SNAPSHOT</version>
         <name>julie-parent</name>
         
         <scm>
 		<url>https://github.com/jmather-pl/release-test/</url>
 		<developerConnection>scm:git:git@github.com:jmather-pl/release-test.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>release-test-1.0.11</tag>
   </scm>
 	
         <properties>
