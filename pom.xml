@@ -75,6 +75,13 @@
             </plugins>
           </pluginManagement>
         </build>
+
+<distributionManagement>
+    <repository>
+        <id>artifact-repository</id>
+        <url>https://repository.services.payzinc.com/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
         
         <repositories>
 		<repository>
