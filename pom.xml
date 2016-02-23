@@ -5,7 +5,7 @@
         <groupId>com.julie</groupId>
         <artifactId>julie-parent</artifactId>
         <packaging>pom</packaging>
-        <version>1.0.12-SNAPSHOT</version>
+        <version>1.0.13-SNAPSHOT</version>
         <name>julie-parent</name>
         
         <scm>
@@ -75,14 +75,12 @@
             </plugins>
           </pluginManagement>
         </build>
-
 <distributionManagement>
     <repository>
         <id>artifact-repository</id>
         <url>https://repository.services.payzinc.com/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
-        
         <repositories>
 		<repository>
             		<id>central</id>
