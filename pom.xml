@@ -64,12 +64,13 @@
                   <goals>perform</goals>
                   <autoversionsubmodules>true</autoversionsubmodules>
                 </configuration>
+                <dependencies>
                 <dependency>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-scm-plugin</artifactId>
 			<version>1.9.2</version>
 		</dependency>
-
+		</dependencies>
               </plugin>
             </plugins>
           </pluginManagement>
