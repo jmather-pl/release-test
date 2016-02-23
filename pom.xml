@@ -61,7 +61,7 @@
                 -->
                 <configuration>
                   <releaseProfiles>release</releaseProfiles>
-                  <goals>perform</goals>
+                  <goals>install</goals>
                   <autoversionsubmodules>true</autoversionsubmodules>
                 </configuration>
                 <dependencies>
