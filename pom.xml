@@ -9,10 +9,8 @@
         <name>julie-parent</name>
         
         <scm>
-		<url>https://github.com/jmather-pl/release-test</url>
-		<developerConnection>scm:git:git@github.com:jmather-pl/release-test.git</developerConnection>
-	  	<connection></connection>
-    <tag>HEAD</tag>
+		<url>https://github.com/jmather-pl/release-test/</url>
+		<developerConnection>scm:git:git@github.com:jmather-pl/release-test.git/</developerConnection>
   </scm>
 	
         <properties>
